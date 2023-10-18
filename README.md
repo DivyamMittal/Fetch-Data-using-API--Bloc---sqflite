@@ -1,4 +1,4 @@
-# atlanta_practice_task1
+# atlanta_task1
 
 A new Flutter project.
 
